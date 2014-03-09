@@ -1,0 +1,14 @@
+{
+    "name": "dario/oxy-router",
+    "description": "Router for Oxy microframework",
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Dario Cavuotti",
+            "email": "dc@syncr.com.ar"
+        }
+    ],
+    "require": {
+        "zendframework/zendframework": "2.*"
+    }
+}
